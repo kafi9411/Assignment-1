@@ -104,18 +104,19 @@ line-height: normal;
     background-color: #FF0000, #FF000000;
 }
 .s4{
-background-color: #e59999;
-padding: 100px;
-gap: 10px;
-text-align: center;
+    background-color: #e59999;
+    padding: 100px;
+    gap: 10px;
+    text-align: center;
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
  
 }
 .lo{
     text-align: center;
     color: #070211;
-    margin: auto;
-
-}
+    }
 .le{
     color: #F00;
     text-align: center;
@@ -139,6 +140,8 @@ text-align: center;
     display: flex;
     gap: 50px;
     padding: 50px;
+    width: 1600px;
+    height: 7335px;
 }
 .c1{
     color: #F00;
@@ -193,6 +196,7 @@ font-family: Inter;
 font-size: 20px;
 font-style: normal;
 font-weight: 400;
+width: 393px;
 line-height: 32px; /* 160% */
 }
 .c7{
@@ -200,3 +204,4 @@ line-height: 32px; /* 160% */
 height: 140px;
 flex-shrink: 0;
 }
+.
