@@ -1,5 +1,5 @@
 .container{
-    background-image: url(../resources/Banner\ Image.png);
+    background-image: url(./resources/Banner\ Image.png);
     padding: 50px;
     margin: 100px 400px;
     width: 1320px;
@@ -59,7 +59,7 @@ font-weight: 700;
 line-height: normal;
 }
 .s3{
-    background-image: url("../resources/Vectorrr.png");
+    background-image: url("./resources/Vectorrr.png");
     width: 1320px;
     height: 600px;
     flex-shrink: 0;
