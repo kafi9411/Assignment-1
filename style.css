@@ -254,9 +254,142 @@ line-height: normal;
     background-image: url("./resources/Rectangle\ 1.png");
     background-position: bottom right;
     background-repeat: no-repeat;
-    max-width: 429px;
+    max-width: 429px;  
+    }
+.sa1{color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+.sa2{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.sa3{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.mn{
+    width: 1600px;
+}
+.gg{
+    width: 1320px;
+    padding: 100px;
+height: 616px;
+flex-shrink: 0;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+text-align: center;
+}
+.km{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.kkk{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.gggg{
+    color: rgba(7, 2, 17, 0.30);
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 210px;
+height: 72px;
+
+background: #FFF;
+}
+.mmmm{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+}
+.df{
+    width: 210px;
+height: 72px;
+flex-shrink: 0;
+
+background: #F00;
+}
+.jhj{
+    gap: 0px;
+
+}
+footer{
+    background-color: #070211;
+    textcolo
+}
+.nm{
+    display: ;
+}
+.discription{
+    color: #FFF;
     
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+.fx{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+.zx{
+    display: flex;
     
-    
-    
+    text-align: center;
+}
+.social-links{
+    padding-right: 230;
+    text-align: center;
+    padding: 100px;
+}
+.vb{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+display: flex;
+line-height: normal;
+}
+.gv{
+    display: flex;
+    padding: 100px;
 }
