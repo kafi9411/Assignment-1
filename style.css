@@ -1,5 +1,5 @@
 .container{
-    background-image: url(./resources/Banner\ Image.png);
+    background-image: url("./resources/Banner\ Image.png");
     padding: 50px;
     margin: 100px 400px;
     width: 1320px;
@@ -138,10 +138,10 @@ line-height: normal;
 }
 .grup{
     display: flex;
-    gap: 50px;
-    padding: 50px;
-    width: 1600px;
-    height: 7335px;
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    margin:0px auto;
 }
 .c1{
     color: #F00;
@@ -203,5 +203,60 @@ line-height: 32px; /* 160% */
     width: 140px;
 height: 140px;
 flex-shrink: 0;
+
 }
-.
+.ka{
+    text-align: center;
+    
+}
+.f11{
+    color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.f12{
+    color: #F00;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.f13{
+    color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.f14{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    width: 1068px;
+    line-height: 32px; /* 160% */
+}
+.ban{
+    b
+}
+.cle{
+    text-align: center;
+}
+.bcg{
+    background-image: url("./resources/Rectangle\ 1.png");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    max-width: 429px;
+    
+    
+    
+    
+}
